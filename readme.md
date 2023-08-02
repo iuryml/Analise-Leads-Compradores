@@ -11,3 +11,7 @@ Páginas de campanhas de Marketing - **Leads**
 Páginas de campanha de Vendas - **Compradores** (que está em desenvolvimento...) 🏗️
 
 Clique e saiba com mais detalhes como foi desenvolvido o projeto.
+
+
+Eu uma análise conciliada, vejamos abaixo que a quantidade de Leads em Janeiro foi menor, mas houve mais compradores, salvo exceção, os demais meses acompanham a desenvoltura das campanhas.
+![image](https://github.com/iuryml/Data-Analyst/assets/55949523/115fffec-b38c-4155-b729-bb249a168522)
