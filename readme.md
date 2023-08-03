@@ -4,7 +4,7 @@
 
 - 🌱 Tecnologias mais utilizadas são **Power BI, Excel e Banco de Dados**
 
-Eu uma análise conciliada, vejamos abaixo que a quantidade de Leads em Janeiro foi menor, mas houve mais compradores, salvo exceção, os demais meses acompanham a desenvoltura das campanhas.
+Em uma análise conciliada de Leads e Compradores, vejamos abaixo que a quantidade de Leads em Janeiro foi menor, mas houve mais Compradores, salvo exceção, os demais meses acompanham proporcionalmente as campanhas.
 ![image](https://github.com/iuryml/Data-Analyst/assets/55949523/115fffec-b38c-4155-b729-bb249a168522)
 
 Clique e saiba com mais detalhes como foi desenvolvido o projeto.
