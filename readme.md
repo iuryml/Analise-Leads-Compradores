@@ -11,4 +11,4 @@ Clique e saiba com mais detalhes como foi desenvolvido o projeto.
 
 -Páginas de campanhas de Marketing - **Leads**
 
--Páginas de campanha de Vendas - **Compradores** (que está em desenvolvimento...) 🏗️
+-Páginas de campanha de Vendas - **Compradores**
