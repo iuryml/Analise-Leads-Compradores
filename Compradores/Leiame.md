@@ -23,7 +23,7 @@ Como principais indicadores, destaco o Volume de Compradores por idade, uma tabe
 
 **Totais (Pág5)** -  Para finalizar essa página fornece os valores totais, onde foi destacado os indicadores conciliados de todas as turmas para construir os indicadores e demonstrar de forma visual nos gráficos.
 
-<h3>ANÁLISE EXPLORATÓRIA</h3>
+## ANÁLISE EXPLORATÓRIA ##
 
 Para explicar de forma mais completa nesse tópico, decidi fazer para as 3 Turmas que são de Janeiro, Março e Maio as mesmas métricas para identificar padrões de perfis entre e outro.
 
