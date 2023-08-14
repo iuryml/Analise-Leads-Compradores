@@ -9,6 +9,5 @@ Em uma análise conciliada de Leads e Compradores, vejamos abaixo que a quantida
 
 Clique e saiba com mais detalhes como foi desenvolvido o projeto.
 
--Páginas de campanhas de Marketing - **Leads**
-
--Páginas de campanha de Vendas - **Compradores**
+* Páginas de campanhas de Marketing - **Leads**
+* Páginas de campanha de Vendas - **Compradores**
