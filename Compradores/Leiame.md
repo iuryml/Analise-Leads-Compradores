@@ -2,8 +2,11 @@
 
 O projeto foi desenvolvido para a empresa Data Mundo
 
-| ✨ Nome | **Análise dos Compradores em 2023 da Data Mundo**<br>
-| 🏷️ Tecnologias | Power BI, Excel (tecnologias utilizadas)
+| :placard: | ---- |
+| -------------  | --- |
+| :sparkles: Nome        | Análise da campanha da empresa Data Mundo 2023
+| :label: Tecnologias | Power BI, Excel (tecnologias utilizadas)
+
 
 <h2>Detalhes do Projeto</h2>
 <h3>VISÃO GERAL DO DASHBOARD</h3>
